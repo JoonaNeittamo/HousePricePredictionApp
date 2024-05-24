@@ -1,4 +1,4 @@
-![image](https://github.com/JoonaNeittamo/HousePricePredictionApp/assets/71437422/fb164bc7-ddc7-40ca-90c9-33df1ebba0f0)# House Price Prediction App
+House Price Prediction App
 
 A brief introduction and overview of your house price prediction app.
 This app uses:
