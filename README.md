@@ -1,12 +1,13 @@
 # House Price Prediction App
 
-A brief introduction and overview of your house price prediction app.
+A brief introduction and overview of the app.
 This app uses:
 1. TKinter as a GUI
 2. Pandas for handling a specific dataset that is used for prediction
 3. RandomForestRegressor for training a model to predict with
 
 Trained models will take over 15 minutes of time to train but reach 95% accuracy (and the dataset is not small so theres no catch).
+This project was a school assignment.
 
 
 ## Table of Contents
