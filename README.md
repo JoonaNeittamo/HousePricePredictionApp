@@ -7,7 +7,6 @@ This app uses:
 3. RandomForestRegressor for training a model to predict with
 
 Trained models will take over 15 minutes of time to train but reach 95% accuracy (and the dataset is not small so theres no catch).
-More info in the README of the app.
 
 
 ## Table of Contents
