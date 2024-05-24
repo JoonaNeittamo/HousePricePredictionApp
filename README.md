@@ -1,6 +1,14 @@
-# House Price Prediction App
+![image](https://github.com/JoonaNeittamo/HousePricePredictionApp/assets/71437422/fb164bc7-ddc7-40ca-90c9-33df1ebba0f0)# House Price Prediction App
 
 A brief introduction and overview of your house price prediction app.
+This app uses:
+1. TKinter as a GUI
+2. Pandas for handling a specific dataset that is used for prediction
+3. RandomForestRegressor for training a model to predict with
+
+Trained models will take over 15 minutes of time to train but reach 95% accuracy (and the dataset is not small so theres no catch).
+More info in the README of the app.
+
 
 ## Table of Contents
 
