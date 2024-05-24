@@ -1,4 +1,4 @@
-House Price Prediction App
+# House Price Prediction App
 
 A brief introduction and overview of your house price prediction app.
 This app uses:
